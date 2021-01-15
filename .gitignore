@@ -13,3 +13,27 @@
 *.zip
 *.xlsm
 taskscheduler_script.R
+coda_data*
+RMD30_Caspar van Lissa_2020-05-08 11-50 CEST.csv
+RMD30*.csv
+*.csv
+!scale_descriptives.csv
+!split_sample.csv
+.DS_Store
+*.RData
+models.RData
+.RData
+!results/fit_table.csv
+!results/representative_fit.csv
+!variable_names.csv
+!df_training_labs.csv
+!fit_paper.csv
+*.docx
+*.tmp
+<<<<<<< HEAD
+!results/*.csv
+!results/signs_c19eff.csv
+!table_country.csv
+=======
+!table1.csv
+>>>>>>> 137eae01ad278b8c124b46c75abace3d0f6f15c9

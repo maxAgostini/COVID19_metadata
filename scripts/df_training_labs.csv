@@ -1,0 +1,122 @@
+X,lab
+affanx,anxious
+affbor,bored
+affcalm,calm
+affcontent,content
+affdepr,depressed
+affenerg,energetic
+affexc,excited
+affnerv,nervous
+affexh,exhausted
+affinsp,inspired
+affrel,relaxed
+plrac19,Infection risk
+plraeco,Economic risk
+isofriends_inperson,Contact friends
+isoothppl_inperson,Contact people
+isoimmi_inperson,Contact immigrants
+isofriends_online,Online friends
+isoothppl_online,Online people
+isoimmi_online,Online immigrants
+persrelsat,Relat. Satis.
+discpers,Close friend
+happy,Happiness
+lifesat,Life satisfaction
+mlq,Sense of purpose
+tightnorms,Rigid norms
+tightloose,Loose norms
+tighttreat,Conform norms
+c19know,COVID knowledge
+c19hope,COVID hopeful
+c19eff,COVID efficacy
+c19normshould,Should social distance
+c19normdo,Do social distance
+c19isstrict,Strict measures
+c19ispunish,Punitive measures
+c19isorg,Organized measures
+extc19msg,Clear messages
+csqc19contract,Consequence contracting
+csqecosuffer,Consequence economic
+csqcancpln,Consequence cancel
+csqlife,Consequence routines
+ecoknow,Econ. knowledge
+ecohope,Econ. hope
+ecoeff,Econ. efficacy
+houseleave,home.leave.often
+houseleavewhy_1,Leave for work
+houseleavewhy_2,Leave for errands
+houseleavewhy_4,Leave for meeting
+houseleavewhy_7,Leave for leisure
+houseleavewhy_6,Leave for other
+tempfocpast,Focus past
+tempfocpres,Focus present
+tempfocfut,Focus future
+feelingtherm,Feeling migrants
+idoverlap,National identity
+relyesno,Religious
+countrycitizen,Is citizen
+citizen,Natural born
+immigrant,Is immigrant
+gender,Gender
+age,Age
+edu,Education
+countryiso3,Country
+date,Date
+coronaclose,COVID close
+employstatus,Employ. Status
+disc,Soc. Discontent
+jbinsec,Job insecurity
+pfs,Financial worries
+fail,Struggling
+lone,Loneliness
+probsolving,Problem solving
+posrefocus,Refocus attention
+c19proso,COVID prosocial
+c19perbeh,COVID personal safety
+c19rca,COVID restrictive measures
+ecoproso,Econ. prosocial
+ecorca,Econ. restrictive measures
+migrantthreat,Migrant threat
+neuro,Neuroticism
+para,Paranoia
+consp,Conspiracy
+population,C_Population size
+cancelpublicevents_flag,C_Cancel events
+closepublictransport_flag,C_Close transport
+contacttracing,C_Contact tracing
+containmenthealthindex,C_Containment health index
+containmenthealthindexfordisplay,C_Containment health index2
+debtcontractrelief,C_Debt relief
+economicsupportindex,C_Economic support index
+economicsupportindexfordisplay,C_Economic support index2
+emergencyinvestmentinhealthcare,C_Invest healthcare
+fiscalmeasures,C_Fiscal measures
+governmentresponseindex,C_Govt. response
+governmentresponseindexfordisplay,C_Govt. response2
+internationalsupport,C_International support
+internationaltravelcontrols,C_Intl. travel restrictions
+investmentinvaccines,C_Invest vaccines
+restrictionsongatherings_flag,C_restrict gatherings
+restrictionsoninternalmovement_flag,C_restrict mobility
+schoolclosing_flag,C_school close
+stayathomerequirements_flag,C_stay home
+stringencyindex,C_stringency
+stringencylegacyindex,C_stringency legacy
+stringencylegacyindexfordisplay,C_stringency legacy2
+testingpolicy,C_testing
+workplaceclosing_flag,C_close workplace
+ghsscore,C_GHS
+airdepartures,C_air travel
+tourismexpenditures,C_tourism expenditures
+doctors_per_10k,C_doctors per 10k
+nurses_and_midwifery_per_10k,C_nurses per 10k
+che_perc_of_gdp_2017,C_health expenditures
+controlcorruption,C_control corruption
+ruleoflaw,C_rule of law
+politicalstability,C_political stability
+voiceaccountability,C_accountability
+govteffectiveness,C_govt. effectiveness
+regulatoryquality,C_regulatory quality
+confirmed,C_confirmed
+deaths,C_deaths
+recovered,C_recovered
